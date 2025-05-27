@@ -1,0 +1,4 @@
+lis=[1,2,3]
+mm=lis
+del mm[0]
+print(lis)
